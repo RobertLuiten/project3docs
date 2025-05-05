@@ -1,11 +1,10 @@
-# Welcome To Project3 Documentation
+# Welcome To Project3 Documentation!
 
-## What is Project3?
-
-Project3 is a multilayer network visualization and anaylsis tool being completed as part of research in UW's Interactive Design Lab.
+## New To Project3?
+Before using Project3, we recommend checking out [this What Is Project3 article](WhatIsProject3.md) to learn more about what Project3 is along with some potential usecases.
 
 ## User Documentation
-For user documentation, go here.
+If you're a Project3 user, [click here to access user documentation](userDocs/home.md).
 
 ## Developer Documentation
-For developer documentation, go here.
+If you're a Project3 contributor, [click here to access the developer docs](developerDocs/home.md).
