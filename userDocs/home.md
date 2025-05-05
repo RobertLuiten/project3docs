@@ -2,11 +2,8 @@
 
 ## Getting Started?
 
-Before using Project3, we recommend checking out some of these articles:
-
-* What are Multilayer Networks?
-* What is Streaming Data?
+Before using Project3, we recommend checking out our [What Is Project3 article](../WhatIsProject3.md).
 
 ## Tutorials
 
-* Visaulizing Your First Dataset With Project3.
+* [Visaulizing Your First Dataset With Project3](tutorials/YourFirstDataset.md).
