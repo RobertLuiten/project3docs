@@ -29,6 +29,8 @@ We recommend starting the development enviroment via the following workflow:
 1. Ensure your Neo4j instance is running.
 2. From the root folder, run the command `python flask/app.py`. This will start the Flask development enviroment.
 3. Open a seperate terminal, and from the root folder run `cd frontend` to navigate into the `frontend` directory.
-4. Run `npm run start` to start the frontend. This will open 
+4. Run `npm run start` to start the frontend.
 5. You can view the program by navigating to `https://localhost:3000/` in your web browser.
     - NOTE: Check the terminal after running `npm run start` to ensure that it lists `https://localhost:3000/`. On some devices, the development enviroment may run on `https://localhost:3001/` due to port configurations.
+
+Alternatively on Mac & Linux, in the root folder for Project3 run the command `./start.sh`. This shell script will start the developer enviroment for you. Please note that your Neo4j database instance will have to be active before running this script in order for it to work properly.

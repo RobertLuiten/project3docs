@@ -26,6 +26,7 @@ First, we need to set the Neo4j URI and Password in `flask/app.py` to the correc
 
 Next we need to get the correct Flask URI so our React frontend can connect to our Flask backend:
 1. From the root folder of Project3, run the command `python flask/app.py` from the terminal to start the Flask server.
+    ![Flask Example](images/flask_add.png)
     - This will print the Flask URI for your local machine (usually formatted as `"http://127.0.0.1:5000"`).
 2. Copy this value for later use.
 

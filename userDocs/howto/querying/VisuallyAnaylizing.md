@@ -1,3 +1,3 @@
-# Visual Anaylisis
+# Visually Anaylizing
 
 TODO
