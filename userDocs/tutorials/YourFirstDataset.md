@@ -4,7 +4,7 @@ In this tutorial, we will walk you though how to visualize your first dataset, a
 
 ## Set-Up
 
-Project3 is current in it's alpha development phase. As such, please reference our [developer documentation "How To Start The Project3 Development Enviroment" article here] to set up the Project3 enviroment on your local machine.
+Project3 is current in it's alpha development phase. As such, please reference our [developer documentation "How To Start The Project3 Development Enviroment" article here](../../developerDocs/task/basics/developmentEnv.md) to set up the Project3 enviroment on your local machine.
 
 ## What You Will Need
 
