@@ -14,7 +14,7 @@ Flask is a Python-based server which allows us to easily develop our Project3 AP
 
 ## Dependencies
 
-Before working with igraph & Flask, ensure you have the following dependencies installed in your Python enviroment:
+Before working with igraph & Flask, ensure you have the following dependencies installed in your Python environment:
 - [igraph, a networks library for Python documentation](https://igraph.org/python/tutorial/0.9.8/install.html) for installation details.
 - [NetworkX, a networks library for Python documentation](https://networkx.org/documentation/stable/install.html) for installation details.
 - [Neo4j Python Driver documentation](https://neo4j.com/docs/api/python-driver/current/) for installation details.

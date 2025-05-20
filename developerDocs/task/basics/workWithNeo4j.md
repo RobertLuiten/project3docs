@@ -6,7 +6,7 @@ In this article, we will cover how to begin working with Neo4j in Project3.
 
 Neo4j a powerful graph database framework which Project3 uses as it's primary source for data. Neo4j allows us not only to store data, but to query data as well, which proves to be useful for a network analysis program.
 
-Before we begin, ensure that you have a Neo4j instance running for testing. We recommend refering to [this Neo4j documentation](https://neo4j.com/docs/aura/classic/auradb/getting-started/create-database/) for more information on creating a Neo4j instance.
+Before we begin, ensure that you have a Neo4j instance running for testing. We recommend referring to [this Neo4j documentation](https://neo4j.com/docs/aura/classic/auradb/getting-started/create-database/) for more information on creating a Neo4j instance.
 
 ## Setting Up Routes
 
