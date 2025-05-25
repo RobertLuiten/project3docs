@@ -6,3 +6,7 @@ This doc set is intended to support developers contributing to or interested to 
 Before contributing Project3, we recommend checking out our [What Is Project3 article](../WhatIsProject3.md) along with our [tech stack introduction article](conceptual/Project3Stack.md).
 
 After this, we recommend refering to our [Setting Up The Project3 Development Enviroment article here](task/basics/developmentEnv.md).
+
+## API Documentation
+
+You can access Project3's API documentation [at this link](/developerDocs/api/flaskAPI.md).

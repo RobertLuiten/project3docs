@@ -13,3 +13,8 @@ Before using Project3, we recommend checking out our [What Is Project3 article](
 * [How To Query Data In Project3](howto/querying/CypherQuerying.md).
 * [How To Switch Coordinate Layout In Project3](howto/querying/SwitchCoordinateLayout.md).
 * [How To Use Geocoordinates In Project3](howto/querying/CoordinatesGeodata.md).
+
+### FAQ, Troubleshooting, and Glossary
+
+* [FAQs and Troubleshooting](reference/FAQ.md).
+* [Glossary](reference/glossary.md).
