@@ -9,7 +9,7 @@ Project3 is still in it's alpha development phase, so as such things may not wor
 For more information on Project3's dependencies, we recommend referring to our [Visualizing Your First Dataset With Project3 article here](../tutorials/YourFirstDataset.md).
 
 ### Ensure Your Neo4j Database Password Is Correct
-If this doesn't resolve the issue, it's likely an issue regarding your Neo4j database credientials. We recommend referring to our [Working With Neo4j article here](../../developerDocs/task/basics/workWithNeo4j.md) for more information on setting up Neo4j credientials.
+If this doesn't resolve the issue, it's likely an issue regarding your Neo4j database credentials. We recommend referring to our [Working With Neo4j article here](../../developerDocs/task/basics/workWithNeo4j.md) for more information on setting up Neo4j credentials.
 
 ## I've Never Used Cypher Before, Will That Be A Problem?
 That's okay; Project3 provides plenty of tools to interact with your data with no knowledge of Cypher needed whatsoever! For more information, we recommend referring [to our article on visualized Cypher querying here](../howto/querying/VisuallyAnaylizing.md).

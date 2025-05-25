@@ -5,4 +5,4 @@ Project3 utilizes a relatively simple custom Flask API for calling both Neo4j an
 ## API FUNCTIONS
 
 * [visualize_igraph](/developerDocs/api/visualizeigraph.md): Returns data with a specified coordinate layout.
-* [get_coordinates](/developerDocs/api/layoutWCoordinates.md): Returns data with it's geocoordinates.
+* [get_coordinates](/developerDocs/api/layoutWCoordinates.md): Returns data with its geocoordinates.

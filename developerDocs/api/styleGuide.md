@@ -1,6 +1,6 @@
 # Style Guide
 
-Project3 can be a complex project at some times, so as such it's essential to ensure that your code is clear, well commented, and understandable such that the other people on our development team will be able to understand it.
+Project3 can be a complex project at times, so as such it's essential to ensure that your code is clear, well commented, and understandable such that the other people on our development team will be able to understand it.
 
 We don't have many guidelines in place currently due to the size of the project, however for the few we do have it's essential that we follow them in order to ensure a smooth development experience for everybody.
 
@@ -8,7 +8,7 @@ We don't have many guidelines in place currently due to the size of the project,
 The convention for variable names in Project3 differs depending on if you're working in the backend (Flask) or frontend (React) of the project.
 
 ## Global Variables
-In both context, global variables must be written in all caps and in `snake_case`, and have a name that clearly indicates what they are representing. For example, a Neo4j password might be styled as `NEO4J_PASSWORD`.
+In all contexts, global variables must be written in all caps and in `snake_case`, and have a name that clearly indicates what they are representing. For example, a Neo4j password might be styled as `NEO4J_PASSWORD`.
 
 ### Variables in Flask
 Variables and arguments in the Flask server must utilize `snake_case`, and have a name that clearly indicates what they are representing. Avoid using variable names such as `x` or `var_1` outside of contexts such as for-loops; rather, make the name itself a short description (i.e. `query_string`, `layout_type`, `running_sum`).
@@ -100,7 +100,7 @@ NEO4J_PASSWORD = "PASSWORD_HERE123"
 QUERY = "id"
 ```
 
-See how the bad example doesn't provide a clear indication for what it's being used for in it's description?
+See how the bad example doesn't provide a clear indication for what it's being used for in its description?
 
 ### React States
 Like local variables, all React States, global or not, must have a brief description of their purpose and usage. Use the `/** */` comment brackets when making comments for React hooks to ensure consistency with comments which may take up multiple lines.
