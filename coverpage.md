@@ -1,8 +1,6 @@
 <!-- _coverpage.md -->
 
-# Project3 396 <small>Beta</small>
-
-> Software Documentation Rocks
+# Project3 <small>Beta</small>
 
 - Visualize & Analyze Networks
 - Support For Multilayer Networks
