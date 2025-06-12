@@ -4,10 +4,10 @@ In this article, we will discuss how to switch the coordinate layout for network
 
 ## Layout Selector
 
-In order to change the layout of your data in Project3, you will need to utilize the Layout Selector, which you will be able to find in the upper right hand corner of the screen:
+In order to change the layout of your data in Project3, utilize the Layout Selector, which is in the upper right hand corner of the screen:
 ![The Layout Selector](images/querybar.png)
 
-From here, we recommend the following workflow for changing the coordinate layout of data in Project3:
+From here, use the following workflow for changing the coordinate layout of data in Project3:
 
 ![The Layout Selector](images/layouts.png)
 
@@ -31,4 +31,4 @@ Project3 has the following layout types:
 - Davidson Harel
 - Sugiyama
 
-The option for the "Default" layout will only be present if you're using geocoordinated data. For more information on adding data with geocoordinates to Project3, we recommend referring to [this Project3 article](CoordinatesGeodata.md).
+The option for the "Default" layout will only be present if you're using geocoordinated data. For more information on adding data with geocoordinates to Project3, refer to [this Project3 article on using Geocoordinates](CoordinatesGeodata.md).

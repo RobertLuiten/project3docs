@@ -2,9 +2,9 @@
 
 In this article, we will cover how to work with both igraph and Flask in Project3.
 
-## igraph & Flask
+## igraph and Flask
 
-igraph and Flask are two powerful Python libraries that Project3 heavily rely on, so having a good grasp on each is critical to ensuring that you have a solid understanding of how Project3 works.
+igraph and Flask are two powerful Python libraries that Project3 heavily relies on, so having a good grasp on each is critical to ensuring that you have a solid understanding of how Project3 works.
 
 ### igraph
 igraph is the primary library used for generating layouts for data without any coordinates.
@@ -22,7 +22,7 @@ Before working with igraph & Flask, ensure you have the following dependencies i
 
 ## Setting Up
 
-First, we need to set the Neo4j URI and Password in `flask/app.py` to the correct value for our Neo4j instance. We recommend referring to our [Working With Neo4j article here](workingWithNeo4j.md) for more information and instructions.
+First, we need to set the Neo4j URI and Password in `flask/app.py` to the correct value for our Neo4j instance. Refer to our [Working With Neo4j article here](workingWithNeo4j.md) for more information and instructions.
 
 Next we need to get the correct Flask URI so our React frontend can connect to our Flask backend:
 1. From the root folder of Project3, run the command `python flask/app.py` from the terminal to start the Flask server.
@@ -38,10 +38,10 @@ After getting the correct Flask URI, set it to the correct value in the frontend
 
 ## Project3 API
 
-For more information on the Project3 API, we recommend referring to our [API documentation here](../../api/flaskAPI.md).
+For more information on the Project3 API, refer to our [API documentation here](../../api/flaskAPI.md).
 
 ## Further Reading
 
-Now that we have all dependencies installed and our Flask server is up and running, we can finally work with Flask and igraph! We recommend referring to the following articles to get a better idea for how each work:
+Now that we have all dependencies installed and our Flask server is up and running, we can finally work with Flask and igraph! Refer to the following articles to get a better idea for how each work:
 - [Getting Started With igraph](https://igraph.org/python/tutorial/0.9.8/tutorial.html).
 - [Getting Started With Flask](https://www.geeksforgeeks.org/flask-tutorial/).
