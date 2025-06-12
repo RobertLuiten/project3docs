@@ -21,7 +21,7 @@
   - [Development Enviroment](developerDocs/task/basics/developmentEnv.md)
     - [Working With Flask](developerDocs/task/basics/workWithFlaskigraph.md)
     - [Working With Neo4j](developerDocs/task/basics/workWithNeo4j.md)
-  - [Project3 API](developerDocs/task/basics/flaskAPI.md)
+  - [Project3 API](developerDocs/api/flaskAPI.md)
     - [visualize_igraph](developerDocs/api/flaskAPI.md)
     - [get_coordinates](developerDocs/api/layoutWCoordinates.md)
   - [Style Guide](developerDocs/task/basics/developmentEnv.md)
