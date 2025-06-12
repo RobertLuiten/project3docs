@@ -38,7 +38,7 @@ After getting the correct Flask URI, set it to the correct value in the frontend
 
 ## Project3 API
 
-For more information on the Project3 API, refer to our [API documentation here](../../api/flaskAPI.md).
+For more information on the Project3 API, refer to our [API documentation here](developerDocs/api/flaskAPI.md).
 
 ## Further Reading
 

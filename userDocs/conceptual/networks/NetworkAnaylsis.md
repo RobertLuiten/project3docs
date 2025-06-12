@@ -12,8 +12,5 @@ Network Anaylsis is a tool that studies the relationships between nodes and edge
 
 Project3 makes network anaylisis easy for both experienced and inexperineced users, which allows you to make the most out of your data.
 
-### Visual Anaylisis Interface
-Project3 has an intuitive querying interface for anyone that wishes to anaylize networks. If you wish to learn more about how to visually query in Project3, we recommend refering to our [Visual Anaylsis article here](../../howto/querying/VisuallyAnaylizing.md).
-
 ### Querying With Cypher
-Since Project3 works with Neo4j, integrated Cypher querying allows you to quickly visualize your query and anaylsis results. This means that you can do the same Cypher queries you would before, just with instant results with multilayer data. Since Project3 has live data streaming support as well, queries can be set to update in real time. If you wish to learn more about querying with Cypher in Project3, we recommend refering to our [Cypher Querying article here](../../howto/querying/CypherQuerying.md).
+Since Project3 works with Neo4j, integrated Cypher querying allows you to quickly visualize your query and anaylsis results. This means that you can do the same Cypher queries you would before, just with instant results with multilayer data. Since Project3 has live data streaming support as well, queries can be set to update in real time. If you wish to learn more about querying with Cypher in Project3, we recommend refering to our [Cypher Querying article here](userDocs/howto/querying/CypherQuerying.md).

@@ -20,8 +20,8 @@ After you have the required Python dependencies installed, you will need to ensu
 ## Setting Up Routes
 
 Before you can run the project, you will need to set the correct `URI` & `password` for both the Flask & Neo4j environments. Refer to the following documentation for more information on finding the Flask & Project3 authentication information:
-- [Working With Neo4j In Project3](workWithNeo4j.md)
-- [Working With igraph and Flask In Project3](workWithFlaskigraph.md)
+- [Working With Neo4j In Project3](developerDocs/task/basics/workWithNeo4j.md)
+- [Working With igraph and Flask In Project3](developerDocs/task/basics/workWithFlaskigraph.md)
 
 ## Starting The Environment
 

@@ -22,5 +22,5 @@ In Project3, Nodes can have several characteristics, including:
 
 ## Edge Characteristics
 In Project3, Edges can have several characteristics as well, including:
-* Weight/Cost: Edges can be set to have different weights and costs. Think different lengths of roads in a transportation network.
-* Direction: Sometimes, a connection between Nodes can only be one way (think a one way street). Edges can be set to represent this in Project3 as well.
+* Weight/Cost: Edges can be set to have different weights and costs. Think different lengths of roads in a transportation network
+* Direction: Sometimes, a connection between Nodes can only be one way (think a one way street). Edges can be set to represent this in Project3 as well

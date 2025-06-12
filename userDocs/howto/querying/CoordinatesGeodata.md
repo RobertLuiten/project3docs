@@ -5,8 +5,8 @@ In this article, we will discuss how to add data with geocoordinates to Project3
 ## Geocoordinate Info
 
 In order to properly add geocoordinate info, you will need to ensure the following:
-1. The coordinate fields in the Neo4j database instance are titled "Lat" and "Long".
-2. The coordinate fields in the Neo4j database instance are titled "Lat2" and "Long2" for connecting nodes for proper edge rendering.
+1. The coordinate fields in the Neo4j database instance are titled "Lat" and "Long"
+2. The coordinate fields in the Neo4j database instance are titled "Lat2" and "Long2" for connecting nodes for proper edge rendering
 
 ## Render Geocoordinates
 
